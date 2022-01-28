@@ -1,0 +1,1138 @@
+
+         a {
+	text-decoration: none;
+	color: #b324b9
+}
+
+a:hover {
+	text-decoration: none;
+	cursor: pointer
+}
+
+body {
+	font-family: Roboto, sans-serif
+}
+
+	.rowwithsidebar .downloadiconz {
+		display: block!important
+	
+	}
+	.rowwithsidebar .downloadiconz img {
+		max-width: 36px!important;
+		margin-top: 44px;
+			margin-right:5px;
+	}
+	
+header {
+	background: #fff;
+	width: 100%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	box-shadow: 0 5px 5px 0 rgba(0, 0, 0, .01), 0 5px 5px 0 rgba(0, 0, 0, .1)!important
+}
+
+.home-header {
+	background: #b324b9;
+	width: 100%;
+	padding: 20px
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: Montserrat, sans-serif
+}
+
+.downloadpage {
+	font-size: 13px;
+	font-weight: 600;
+	display: inline-block;
+	color: #fff;
+	background: #b324b9;
+	padding: 10px;
+	margin-left: 10px;
+	border-radius: 30px;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-right: 10px
+}
+
+.downloadpage:hover {
+	color: #fff
+}
+
+.downloadpage img {
+	width: 20px
+}
+
+.heart {
+	font-size: 25px;
+	display: inline-block;
+	margin-top: 44px
+}
+
+.logo {
+	height: 60px;
+	margin-left: 20px;
+	margin-left: 100px
+}
+
+.search-form .btn-secondary {
+	background-color: #b324b9!important;
+	border-color: #b324b9!important;
+	padding-left: 40px;
+	padding-right: 40px;
+	font-size: 22px;
+	border-radius: 15px
+}
+
+.search-form input {
+	height: 50px;
+	background: #f8f9fd;
+	border-radius: 15px
+}
+
+.join {
+	background-color: #b324b9!important;
+	color: #fff;
+	padding: 10px;
+	padding-left: 40px;
+	padding-right: 40px;
+	font-size: 22px;
+	display: block;
+	width: 150px;
+	font-weight: 600;
+	border-radius: 30px
+}
+
+.btn.active,
+.btn:active,
+button:active,
+button:focus,
+button:hover,
+input:active,
+input:focus,
+input:hover,
+label:focus,
+textarea:active,
+textarea:focus,
+textarea:hover {
+	outline: 0!important;
+	-webkit-appearance: none;
+	box-shadow: none!important
+}
+
+.main-menu {
+	float: right;
+	margin-right: 100px
+}
+
+.main-menu li {
+	list-style-type: none;
+	display: inline;
+	margin-right: 15px
+}
+
+.main-menu li a {
+	display: inline-block;
+	color: #fff;
+	font-size: 18px;
+	text-decoration: none
+}
+
+.main-menu li a:hover {
+	color: #fff;
+	text-decoration: none
+}
+
+.active-menu {
+	color: #fff!important;
+	font-weight: 600
+}
+
+.action-button-menu {
+	background-color: #fff;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-radius: 50px;
+	color: #b324b9!important;
+	font-weight: 600
+}
+
+.header-image {
+	max-width: 100%
+}
+
+.home-header-heading {
+	color: #fff;
+	font-size: 85px
+}
+
+.home-header-text {
+	color: #fff;
+	font-size: 30px
+}
+
+.section-heading {
+	margin-left: 50px;
+	margin-right: 50px
+}
+
+.section-heading h2 {
+	margin: 0;
+	padding: 0
+}
+
+.head-card {
+	color: #000;
+	padding-top: 15px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px
+}
+
+.viewall {
+	float: right;
+
+	color: #000;
+	font-size: 18px
+}
+
+.ringtone-row {
+    margin-left:30px;
+
+	margin-top: 20px
+}
+
+.ring-card {
+	box-shadow: #949494;
+	margin-bottom: 30px;
+	padding-bottom: 10px;
+	border-radius: 10px;
+	box-shadow: 0 5px 5px 0 rgba(0, 0, 0, .01), 0 5px 5px 0 rgba(0, 0, 0, .1)!important
+}
+
+.head-card a {
+	color: #000;
+	font-size: 22px;
+	font-weight: 600
+}
+
+.cat-card-button {
+	font-size: 16px!important;
+	font-weight: 300!important;
+	float: right;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-radius: 50px
+}
+
+.progress {
+	height: .3rem!important;
+	transition: width .1s linear
+}
+
+.progressback {
+	background-color: #e9ecef;
+	width: 100%;
+	margin: 5px
+}
+
+.cat-card-button:hover {
+	color: #b324b9
+}
+
+.playbutton {
+	background-color: #fff;
+	color: #b324b9!important;
+	border-radius: 50%;
+	padding: 20px;
+	padding-left: 25px;
+	font-size: 45px;
+	display: inline-block;
+	border: 2px solid #b324b9;
+	width: 100px;
+	padding-top: 28px;
+	height: 100px;
+	margin-left: 5px;
+	margin-top: 15px
+}
+
+.playbutton img {
+	width: 50px
+}
+
+.info-card {
+	padding-top: 50px
+}
+
+.like img {
+	max-width: 30px;
+	margin-right: 10px
+}
+
+.download img {
+	max-width: 30px;
+	margin-right: 10px
+}
+
+.cat-photo img {
+	max-width: 80%;
+	margin-left: 10%;
+	margin-top: 30px
+}
+
+.ringnamelink {
+	display: block;
+	font-size: 16px!important
+}
+
+.right-heading {
+	margin-top: 50px;
+	background-color: #b324b9;
+	padding: 5px;
+	color: #fff;
+	text-align: center;
+	border-radius: 18px;
+	font-weight: 900
+}
+
+.right-list {
+	margin: 0;
+	padding: 0
+}
+
+.right-list li {
+	list-style-type: none
+}
+
+.right-list li a {
+	display: block;
+	color: gray;
+	margin-bottom: 15px;
+	font-weight: 400;
+	font-size: 20px;
+	padding-left: 25px
+}
+
+.right-list li a:hover {
+	color: #b324b9
+}
+
+.footer-home {
+	background-image: url(images/dotted-world-map.png);
+	padding-top: 150px
+}
+
+.logo-dark {
+	max-width: 100%
+}
+
+.home-text-footer p {
+	color: gray;
+	font-size: 28px;
+	font-weight: 400;
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 30px
+}
+
+.footer-widgets {
+	margin-top: 50px
+}
+
+.heart {
+	color: #b324b9!important
+}
+
+.footer-widgets p {
+	margin-right: 20%
+}
+
+.footer-widget-heading {
+	margin-bottom: 25px
+}
+
+.footer-list {
+	margin: 0;
+	padding: 0
+}
+
+.catbg {
+	display: block;
+	width: 100%;
+	border-radius: 15px;
+	height: 100px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-bottom: 15px
+}
+
+.catbg:hover {
+	background-color: #b324b9
+}
+
+.catlink {
+	width: 100%;
+	height: 100px;
+	border-radius: 15px;
+	opacity: 0;
+	color: #fff;
+	font-size: 25px;
+	text-align: center;
+	font-weight: 400;
+	line-height: 100px
+}
+
+.catlink:hover {
+	background-color: rgba(179, 36, 185, 0.9);
+	opacity: 1;
+}
+
+.footer-list li {
+	list-style-type: none
+}
+
+.footer-list li a {
+	color: gray;
+	margin-bottom: 7px;
+	text-align: left
+}
+
+.copyrings {
+	margin-top: 20px;
+	margin-bottom: 5px
+}
+
+.viewssingle {
+	margin-left: 10px;
+	margin-right: 10px;
+	font-size: 20px;
+	color: gray
+}
+
+.viewssingle img {
+	height: 25px;
+	margin-left: 3px
+}
+
+.main-h {
+	margin-left: 60px
+}
+
+#pages .nulink {
+	background: #bbbdcf;
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	color: #b6b6b6;
+	line-height: 19px;
+	text-align: center
+}
+
+#pages ul li {
+	margin-left: 10px;
+	border-radius: 5px;
+	padding: 5px
+}
+
+#pages ul li a {
+	color: #fff
+}
+
+.svgpage {
+	width: 30px;
+	margin-top: -6px
+}
+
+.none {
+	display: none
+}
+
+#pages .active {
+	background-color: #b324b9;
+	margin-left: 10px;
+	color: #fff!important;
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	line-height: 19px;
+	text-align: center
+}
+
+#pages .active a {
+	color: #fff
+}
+
+.content-full {
+	padding: 30px
+}
+
+.rowinforing {
+	font-size: 22px;
+	font-weight: 400
+}
+
+.download-button {
+	padding: 10px;
+	text-align: center;
+	background-color: #b324b9;
+	color: #fff;
+	font-size: 22px;
+	font-weight: 600;
+	display: block;
+	width: 100%;
+	margin-bottom: 20px
+}
+
+.download-button:hover {
+	background-color: #000;
+	color: #fff
+}
+
+.checked {
+	color: orange
+}
+
+.ratme {
+	font-size: 20px
+}
+
+.ratme:hover {
+	color: #b324b9;
+	cursor: pointer
+}
+
+.mobilemenuicon {
+	cursor: pointer;
+	color: #fff!important
+}
+
+#tagsingle {
+	background: #716d62;
+	border-radius: 3px 0 0 3px;
+	color: #fff;
+	display: inline-block;
+	font-weight: 400;
+	padding: 5px;
+	position: relative;
+	margin: 0 10px 10px 0;
+	text-decoration: none;
+	-webkit-transition: color .2s;
+	font-size: 13px;
+	border-radius: 30px;
+	padding-left: 10px;
+	padding-right: 10px
+}
+
+@media screen and (max-width:1500px) {
+	.home-header-text {
+		font-size: 30px
+	}
+	.home-header-heading {
+		font-size: 65px
+	}
+}
+
+@media screen and (max-width:1000px) {
+	.main-menu {
+		margin-right: 8px
+	}
+	.home-header-text {
+		font-size: 25px
+	}
+	.home-header-heading {
+		font-size: 50px
+	}
+}
+
+@media screen and (min-width:768px) {
+	.singlering {
+		margin-left: 40px;
+	}
+	.menuMainicon {
+		display: none
+	}
+	.menuMain {
+		display: block
+	}
+	.mobileheader {
+		display: none
+	}
+}
+
+.btn-search {
+	font-size: 25px;
+	color: #fff
+}
+
+@media screen and (max-width:767px) {
+	.search-mobile {
+		display: none;
+		width: -webkit-calc(100% - 120px);
+		width: -moz-calc(100% - 120px);
+		float: right;
+		width: calc(100% - 120px);
+		margin-right: 5px
+	}
+	.mobileheader {
+		background-color: #b324b9!important
+	}
+	.mobileheader img {
+		max-width: 100px;
+		max-width: 170px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 7px;
+
+	}
+	.viewall {
+		margin-right: 0
+	}
+	.mobilenot {
+		display: none
+	}
+	.mobilemenuicon {
+		color: #fff;
+		float: right;
+		margin-right: 10px;
+		font-size: 25px;
+		margin-top: 4px;
+	}
+	header {
+		margin-bottom: 0
+	}
+	.header {
+		display: none
+	}
+	.join {
+		display: none
+	}
+	.main-menu li a {
+		display: block;
+		padding-left: 10px;
+		padding-top: 5px;
+		padding-bottom: 5px
+	}
+	.action-button-menu {
+		margin-left: 10px;
+		margin-top: 15px
+	}
+	.main-menu li {
+		display: block
+	}
+	.main-menu {
+		margin: 0;
+		padding: 0
+	}
+	.menuMain {
+		display: none
+	}
+	.menuMainicon {
+		display: block;
+		text-align: right;
+		font-size: 20px;
+		margin-top: 7px;
+		color: #fff
+	}
+	.home-header {
+		display: none
+	}
+	.menuMainicon a {
+		color: #fff
+	}
+	.footer-widgets {
+		text-align: center
+	}
+	.footer-widgets p {
+		margin: 0!important
+	}
+	.section-heading {
+		margin-left: 0;
+		margin-right: 0
+	}
+	.ringtone-row {
+	  margin-left:30px;
+		margin-right: 0
+	}
+	.catPhoto {
+		border-radius: 10px;
+		margin-bottom: 12px
+	}
+	.home-header-text {
+		font-size: 20px
+	}
+	.home-header-heading {
+		font-size: 30px
+	}
+	.header {
+		margin: 0;
+		padding-top: 15px;
+		padding-bottom: 15px
+	}
+	.logo {
+		margin-left: -10px!important
+	}
+}
+
+@media screen and (max-width:500px) {
+	.logo {
+		margin: 0;
+		margin-left: -10px!important
+	}
+	.section-heading h2 {
+		font-size: 18px
+	}
+	.home-text-footer p {
+		font-size: 18px
+	}
+}
+
+@media screen and (max-width:1449px) and (min-width:1200px) {
+	.playbutton {
+		width: 75px;
+		padding-top: 21px;
+		height: 75px;
+		padding-left: 22px;
+		font-size: 30px
+	}
+	.downloadpage {
+		font-size: 11px;
+		margin-left: 1px;
+		border-radius: 30px;
+		padding-left: 1px;
+		padding-right: 3px;
+		margin-right: 1px;
+		border-radius: 10px;
+		padding-top: 10px;
+		padding-bottom: 10px
+	}
+	.downloadpage img {
+		width: 16px;
+		margin-top: -5px
+	}
+	.heart {
+		font-size: 17px
+	}
+	.ringnamelink {
+		font-size: 14px!important
+	}
+	.rowwithsidebar .playbutton {
+		width: 75px;
+		padding-top: 21px;
+		height: 75px;
+		padding-left: 22px;
+		font-size: 30px
+	}
+	.rowwithsidebar .downloadpage {
+		font-size: 13px;
+		font-weight: 600;
+		display: inline-block;
+		color: #fff;
+		background: #b324b9;
+		padding: 10px!important;
+		margin-left: 10px!important;
+		border-radius: 30px!important;
+		padding-left: 15px!important;
+		padding-right: 15px!important;
+		margin-right: 10px!important
+	}
+	.rowwithsidebar .downloadpage img {
+		width: 20px;
+		margin-top: -5px
+	}
+	.rowwithsidebar .heart {
+		font-size: 20px
+	}
+	.logo {
+		margin-left: 20px
+	}
+}
+
+@media screen and (max-width:900px) {
+	.playbutton {
+		width: 75px;
+		padding-top: 21px;
+		height: 75px;
+		padding-left: 22px;
+		font-size: 30px
+	}
+	.downloadpage {
+		font-size: 15px;
+		margin-left: 5px;
+		border-radius: 30px;
+		padding-left: 5px;
+		padding-right: 5px;
+		margin-right: 5px;
+		border-radius: 10px;
+		padding-top: 10px;
+		padding-bottom: 10px
+	}
+	.downloadpage img {
+		width: 20px;
+		margin-top: -5px
+	}
+}
+
+.logo {
+	margin-left: 20px
+}
+
+@media screen and (max-width:1600px) {
+	.logo {
+		margin-left: 20px
+	}
+	.rowwithsidebar .playbutton {
+		width: 75px;
+		padding-top: 21px;
+		height: 75px;
+		padding-left: 22px;
+		font-size: 30px
+	}
+	.rowwithsidebar .downloadpage {
+		font-size: 13px;
+		font-weight: 600;
+		display: inline-block;
+		color: #fff;
+		background: #b324b9;
+		padding: 10px!important;
+		margin-left: 10px!important;
+		border-radius: 30px!important;
+		padding-left: 15px!important;
+		padding-right: 15px!important;
+		margin-right: 10px!important
+	}
+	.rowwithsidebar .downloadpage img {
+		width: 20px;
+		margin-top: -5px
+	}
+	.rowwithsidebar .heart {
+		font-size: 20px
+	}
+}
+
+@media screen and (max-width:1160px) {
+	.rowwithsidebar .playbutton {
+		width: 75px;
+		padding-top: 21px;
+		height: 75px;
+		padding-left: 22px;
+		font-size: 30px
+	}
+	.rowwithsidebar .downloadpage {
+		font-size: 13px;
+		font-weight: 600;
+		display: inline-block;
+		color: #fff;
+		background: #b324b9;
+		padding: 5px!important;
+		margin-left: 5px!important;
+		border-radius: 30px!important;
+		padding-left: 10px!important;
+		padding-right: 10px!important;
+		margin-right: 5px!important
+	}
+	.rowwithsidebar .downloadpage img {
+		width: 18px;
+		margin-top: -5px
+	}
+	.rowwithsidebar .heart {
+		font-size: 18px!important
+	}
+}
+
+@media screen and (max-width:1033px) {
+	.rowwithsidebar .downloadpage {
+		display: none!important
+	}
+	.rowwithsidebar .dtext {
+		display: none
+	}
+	.rowwithsidebar .heart {
+		margin-top: 25px;
+		font-size: 30px
+	}
+
+	.rowwithsidebar .playbutton {
+		margin-left: 4px
+	}
+	.rowwithsidebarcontainer .ringtone-row {
+	  margin-left:30px;
+		margin-right: 0!important
+	}
+}
+
+@media screen and (max-width:1050px) {
+	.logo {
+		margin-left: 3px;
+		height: 50px
+	}
+	.join {
+		font-size: 20px;
+		padding-left: 10px;
+		padding-right: 10px;
+		text-align: center;
+		width: 110px
+	}
+}
+
+@media screen and (max-width:810px) {
+	.playbutton {
+		width: 75px;
+		padding-top: 21px;
+		height: 75px;
+		padding-left: 22px;
+		font-size: 30px
+	}
+	.downloadpage {
+		font-size: 11px;
+		margin-left: 1px;
+		border-radius: 30px;
+		padding-left: 1px;
+		padding-right: 5px;
+		margin-right: 1px;
+		border-radius: 10px;
+		padding-top: 10px;
+		padding-bottom: 10px
+	}
+	.downloadpage img {
+		width: 16px;
+		margin-top: -5px
+	}
+	.rowwithsidebarcontainer.downloadpage {
+		font-size: 11px!important;
+		margin-left: 1px!important;
+		border-radius: 30px!important;
+		padding-left: 1px!important;
+		padding-right: 5px!important;
+		margin-right: 1px!important;
+		border-radius: 10px!important;
+		padding-top: 10px!important;
+		padding-bottom: 10px!important
+	}
+	.rowwithsidebarcontainer .downloadpage img {
+		width: 16px!important;
+		margin-top: -5px!important
+	}
+	.rowwithsidebarcontainer.heart {
+		font-size: 20px!important
+	}
+	.heart {
+		font-size: 20px
+	}
+}
+
+@media screen and (max-width:767px) {
+	h1 {
+		font-size: 22px
+	}
+	h2 {
+		font-size: 20px
+	}
+	h3 {
+		font-size: 18px
+	}
+	h4 {
+		font-size: 16px
+	}
+	.right-list li a {
+		font-size: 18px
+	}
+	.main-h {
+		margin-left: 5px;
+		font-size: 20px
+	}
+	.rowwithsidebarcontainer .col-12 {
+		margin: 0;
+		padding: 0
+	}
+	.playbutton {
+		width: 50px;
+		height: 50px;
+		font-size: 20px;
+		padding-left: 16px;
+		padding-top: 14px;
+		margin-left: 2px
+	}
+	.rowwithsidebarcontainer .playbutton {
+		width: 50px!important;
+		height: 50px!important;
+		font-size: 20px!important;
+		padding-left: 16px!important;
+		padding-top: 14px!important;
+		margin-left: 2px!important
+	}
+	.cat-card-button {
+		font-size: 10px!important;
+		margin: 0;
+		padding: 0
+	}
+	.ringnamelink {
+		font-size: 14px!important
+	}
+	.ring-card {
+		margin-bottom: 10px;
+		box-shadow: 0 0 #000!important;
+		border-bottom: 1px solid #edeff2;
+		border-radius: 0;
+	}
+	.timec {
+		font-size: 10px!important
+	}
+	.ringtone-row{
+	    	margin: 0 !important;
+		padding: 0 !important;
+	} 
+
+	.ringtone-row .col-12 {
+		margin: 0;
+		padding: 0;
+	}
+	.downloadpage {
+		display: none
+	}
+	.dtext {
+		display: none
+	}
+	.heart {
+		margin-top: 25px;
+		font-size: 30px
+	}
+	.rowwithsidebarcontainer.heart {
+		margin-top: 25px!important;
+		font-size: 30px!important
+	}
+	.downloadiconz img{
+	    margin-top:20px !important;
+	}
+}
+
+
+
+@media screen and (max-width:500px) {
+	.ringnamelink {
+		font-size: 12px!important
+	}
+	.heart {
+		margin-top: 30px;
+		font-size: 25px
+	}
+	.rowwithsidebarcontainer .heart {
+		margin-top: 30px!important;
+		font-size: 25px!important
+	}
+
+}
+
+@media screen and (max-width:350px) {
+	.heart {
+		margin-top: 30px;
+		font-size: 18px
+	}
+	.rowwithsidebarcontainer .heart {
+		margin-top: 30px!important;
+		font-size: 18px!important
+	}
+
+}
+
+@media screen and (max-width:1000px) and (min-width:768px) {
+	.right-list li a {
+		display: block;
+		margin-bottom: 15px;
+		font-weight: 400;
+		font-size: 15px;
+		padding-left: 5px
+	}
+}
+
+@media screen and (max-width:1650px) and (min-width:1450px) {
+	.playbutton {
+		width: 75px;
+		padding-top: 21px;
+		height: 75px;
+		padding-left: 22px;
+		font-size: 30px
+	}
+	.logo {
+		margin-left: 20px
+	}
+	.downloadpage {
+		font-size: 13px;
+		font-weight: 600;
+		display: inline-block;
+		color: #fff;
+		background: #b324b9;
+		padding: 10px;
+		margin-left: 5px;
+		border-radius: 30px;
+		padding-left: 10px;
+		padding-right: 10px;
+		margin-right: 5px
+	}
+	.downloadpage img {
+		width: 20px;
+		margin-top: -5px
+	}
+	.heart {
+		font-size: 20px!important
+	}
+}
+
+@media screen and (max-width:1280px) and (min-width:992px) {
+ .cat-card-button{
+     font-size:13px !important;
+ }   
+ .ringnamelink{
+  font-size:13px !important;   
+ }
+ .rowwithsidebar .downloadiconz img{
+     margin-top:25px;
+     padding-right:5px;
+ }
+}
+
+
+@media screen and (max-width:850px) and (min-width:768px) {
+ .cat-card-button{
+     font-size:13px !important;
+ }   
+ .ringnamelink{
+  font-size:13px !important;   
+ }
+
+}
+
+.mobilemenubutton{display:none;}
+@media screen and (max-width:991px){
+  .mobilemenubutton{display:block;}  
+}
+
+.catlist{margin-left:0;padding-left:0}.catlist li{list-style-type:none;display:block;margin-top:15px}.catlist li a{color:#000;display:block;font-size:18px;padding-left:10px}.catlist li a:hover{text-decoration:none;color:#e41776}
+.mobileCats{
+    display:none;
+}
+#menuMainArk{
+    font-size:35px;
+}
+.rowwithsidebarcontainer{
+    margin-top:40px;
+}
+@media(max-width:767px){
+    .mobileshowonly{
+        margin-top:15px;
+    }
+}
+
+@media(min-width:768px){
+     .mobileshowonly{
+     display:none;
+    }  
+    
+}
