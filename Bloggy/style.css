@@ -998,7 +998,7 @@ th {
 }
 
 /* Forms */
-input {
+input, select {
 	padding: 5px;
 	font-size: 12px;
 	vertical-align: middle;
@@ -1007,6 +1007,7 @@ input {
 	transition: all .25s ease-in-out;
 }
 
+select,
 input[type=text],
 input[type=email],
 input[type=tel],
@@ -1014,6 +1015,7 @@ input[type=url] {
 	width: 60%;
 }
 
+select,
 input[type=text]:hover,
 input[type=email]:hover,
 input[type=tel]:hover,
@@ -1261,6 +1263,7 @@ textarea {
 }
 
 @media screen and (max-width: 620px) {
+        select,
 	input[type=text],
 	input[type=email],
 	input[type=tel],
